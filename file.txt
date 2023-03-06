@@ -1,4 +1,16 @@
 hello everyone !!!
-today we will see something intresting...
+<<<<<<< HEAD
+today we will see something intresting....
 
 Now in in branch
+=======
+<<<<<<< HEAD
+today we will see something intresting....
+
+
+
+now djndclsndocsn...
+=======
+today we will see something intresting...
+>>>>>>> parent of 88df5af (added dot)
+>>>>>>> branch2
